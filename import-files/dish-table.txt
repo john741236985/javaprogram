@@ -1,0 +1,43 @@
+dishid:A1;dishname:Pork Rice;dishprice:55
+dishid:A2;dishname:Pineapple Fried Rice;dishprice:58
+dishid:A3;dishname:Chicken Rice;dishprice:59
+dishid:A4;dishname:Beef Rice;dishprice:56
+dishid:A5;dishname:Fried Rice;dishprice:53
+dishid:A6;dishname:White Rice;dishprice:57
+dishid:A7;dishname:Pork Noodle;dishprice:58
+dishid:A8;dishname:Chicken Noodle;dishprice:53
+dishid:A9;dishname:Beef Noodle;dishprice:56
+dishid:A10;dishname:Fish Rice;dishprice:58
+dishid:A11;dishname:Fish Noodle;dishprice:59
+dishid:A12;dishname:Corn Rice;dishprice:45
+dishid:A13;dishname:Egg Rice;dishprice:45
+dishid:A14;dishname:Vegetable Rice;dishprice:26
+dishid:A15;dishname:Mushroom Rice;dishprice:57
+dishid:A16;dishname:Yellow Chicken Rice;dishprice:87
+dishid:A17;dishname:Char Siu Rice;dishprice:44
+dishid:A18;dishname:Twice cooked pork Rice;dishprice:34
+dishid:A19;dishname:Braised Pork Rice;dishprice:76
+dishid:A20;dishname:Sweet and Sour Pork;dishprice:34
+dishid:A21;dishname:Kung Pao Chicken;dishprice:56
+dishid:A22;dishname:Tea Egg;dishprice:55
+dishid:A23;dishname:Wonton;dishprice:55
+dishid:A24;dishname:Mooncake;dishprice:55
+dishid:A25;dishname:Congee;dishprice:55
+dishid:A26;dishname:Hot and sour soup;dishprice:55
+dishid:A27;dishname:Hay Wrapped Fragrant Ribs;dishprice:55
+dishid:A28;dishname:Ginger Duck;dishprice:55
+dishid:A29;dishname:Lotus Seed Pod Fish;dishprice:55
+dishid:A30;dishname:Silver Fish Fried Egg;dishprice:55
+dishid:A31;dishname:Soy Braised Mandarin Fish;dishprice:55
+dishid:A32;dishname:Phoenix Tail Shrimp;dishprice:55
+dishid:A33;dishname:Fuli Roast Chicken;dishprice:55
+dishid:A34;dishname:Fried Pumpkin Dumplings;dishprice:55
+dishid:A35;dishname:Crab-apple Flower Cake;dishprice:55
+dishid:A36;dishname:Caterpillar Fungus Duck;dishprice:55
+dishid:A37;dishname:Bang Tofu;dishprice:55
+dishid:A38;dishname:Flower Mushroom Frog;dishprice:55
+dishid:A39;dishname:Peking Duck;dishprice:55
+dishid:A40;dishname:Crullers;dishprice:55
+dishid:A41;dishname:Braised abalone;dishprice:55
+dishid:A42;dishname:Crispy fried chicken;dishprice:55
+dishid:A43;dishname:Shark fin soup;dishprice:55

@@ -1,0 +1,2 @@
+staffid:01;staffname:manager;staffpw:00001
+staffid:02;staffname:cashier;staffpw:00002
